@@ -163,5 +163,11 @@
 </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </div>
 </div>
-<td><img src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/github-metrics/reactions.svg" alt="reactions" /></td>
+<!-- second form 第二个表格 -->
+<table>
+  <tr>
+  <td><img src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/github-metrics/reactions.svg" alt="reactions" /></td>
+  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" /> </td>
+  </tr>
+</table>
