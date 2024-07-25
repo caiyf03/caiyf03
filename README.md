@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20To%20Cai%20YiFan's%20Homepage!;坐看云卷云舒,静听花开花落&center=true&font=Roboto&size=27" /></div>
+  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome%20To%20Cai%20YiFan's%20Homepage!;坐看云卷云舒,静听花开花落&center=true&font=Roboto&size=27" /></div>
 
 
   <!-- knock code pictures 敲代码的图片 -->
