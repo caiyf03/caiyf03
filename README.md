@@ -1,10 +1,8 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);TheHomePageofCaiYiFan!&center=true&size=27" />
-    </a>
-  </div>
+  <div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&font=Roboto&size=27" /></div>
+
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
