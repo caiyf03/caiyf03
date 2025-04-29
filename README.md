@@ -22,11 +22,19 @@
     <a href="no"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="no"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
    
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiyf03&show_icons=true&theme=transparent)
+    
     ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
-    <a href="https://wakatime.com/@caiyf03"><img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" /></a>
+    
   </div>
+![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
 
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiyf03&show_icons=true&theme=transparent)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
+  <a href="https://wakatime.com/@caiyf03">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
+  </a>
+</div>
 # 🙋 Hello
 
 <table>
