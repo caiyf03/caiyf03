@@ -5,29 +5,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cai%20YiFan's%20Homepage!;坐看云卷云舒,静听花开花落&center=true&font=Roboto&size=27" />
   </div>
 
-  <!-- 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/coding.gif" />
-  </picture>
-
   <div>&nbsp;</div>
 
   <!-- 个人资料徽标 -->
-  <div>
-    <a href="no"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="no"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="no"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="no"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="no"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-   
-    
-    ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
-    
+  <div style="line-height: 2.5;">
+    <img src="https://img.shields.io/badge/Email-邮箱-0078D4"/> <b>邮箱</b>: (caiyf@shanghaitech.edu.cn)<br>
+    <img src="https://img.shields.io/badge/Twitter-推特-blue"/> <b>Twitter</b>: [@yourhandle](https://twitter.com/yourhandle)<br>
+    <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站"/> <b>B站</b>: [你的昵称](https://space.bilibili.com/yourid)<br>
+    <img src="https://img.shields.io/badge/WeChat-微信-07c160" alt="微信"/> <b>微信</b>: 你的微信号<br>
   </div>
-![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
-
 <div align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiyf03&show_icons=true&theme=transparent)
   ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
@@ -35,6 +21,8 @@
     <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
   </a>
 </div>
+
+
 # 🙋 Hello
 
 <table>
@@ -45,10 +33,10 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是蔡同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;。</p>
+<p>&emsp;&emsp;。</p>
+<p>&emsp;&emsp;。</p>
+<p>&emsp;&emsp;<strong>.</strong></p>
 
 </td></tr>
 
@@ -58,27 +46,35 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/yuanze.png" />
 
-- [某科技公司](https://example.com/) &emsp; 📌 2024-03-04 —— Now
-  - 工作岗位：软件工程师
-  - 工作内容：开发工作
+- **Institution**: ShanghaiTech University  
+  - Degree: Bachelor of Science in Computer Science  
+  - Duration: 2021 - 2025  
+  - Major: Computer Science  
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/tuhui.png" />
 
-- [某信息科技公司](https://example.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：前端开发
+- **Institution**: University of Wisconsin-Madison  
+  - Program: Exchange Student (Computer Science)  
+  - Duration: Fall Semester 2024  
+  - Key Focus: Introduction to Cryptography, Intro to Software Security, Building User Interfaces
 
 </td></tr>
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📃 Recent Publications
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/astronaut.png" />
+1. **Cai, Y.** (2024). Core technologies in recommender systems: Investigating and analyzing standard implementations. In _Proceedings of the 2024 2nd International Conference on Computer, Machine Learning and Artificial Intelligence (CMLAI 2024)_. _Highlights in Science, Engineering and Technology_, 72, 123-135.  
+   - 📄 [Paper PDF](https://example.com/path-to-paper.pdf)  
+   - 🏛️ [Conference Website](https://example.com/conference-link)  
+   - 💻 [Code Repository](https://github.com/yourusername/repo-name)  
+   - 📊 [Dataset](https://example.com/dataset-link)  
 
-<!-- 博客文章列表 -->
-* <a href='https://example.com' target='_blank'>我的第一篇文章</a> - 2024-01-01
-* <a href='https://example.com' target='_blank'>技术分享</a> - 2023-12-15
+2. **Yu, J.**, Wang, J., Shi, Y., & **Cai, Y.** (2024). Guidance with spherical Gaussian constraint for conditional diffusion. In _Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_. PMLR, 202.  
+   - 📄 [Paper PDF](https://example.com/path-to-icml-paper.pdf)  
+   - 🏛️ [ICML 2024 Proceedings](https://proceedings.mlr.press/v202/)  
+   - 🌐 [Project Page](https://example.com/project-page)  
+   - 💻 [Code](https://github.com/yourusername/diffusion-code)  
 
 </td></tr>
 </table>
