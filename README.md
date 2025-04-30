@@ -1,12 +1,9 @@
-<div align="center">
 
   <!-- 动态打字效果 -->
   <div align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cai%20YiFan's%20Homepage!;坐看云卷云舒,静听花开花落&center=true&font=Roboto&size=27" />
   </div>
-
-  <div>&nbsp;</div>
-
+  
   <!-- 个人资料徽标 -->
   <div style="line-height: 2.5;">
     <img src="https://img.shields.io/badge/Email-邮箱-0078D4"/> <b>邮箱</b>: (caiyf@shanghaitech.edu.cn)<br>
@@ -14,13 +11,14 @@
     <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站"/> <b>B站</b>: [你的昵称](https://space.bilibili.com/yourid)<br>
     <img src="https://img.shields.io/badge/WeChat-微信-07c160" alt="微信"/> <b>微信</b>: 你的微信号<br>
   </div>
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiyf03&show_icons=true&theme=transparent)
+  
+
   ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
+  
   <a href="https://wakatime.com/@caiyf03">
     <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
   </a>
-</div>
+
 
 
 # 🙋 Hello
@@ -85,3 +83,16 @@
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiyf03" /> </td>
   </tr>
 </table>
+
+![caiyf03's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiyf03&count_private=true&layout=compact)
+
+# 统计语言
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiyf03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# 展示仓库，通过此方式解除github首页 pin数量的限制
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiyf03&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiyf03&repo=convoychat" />
+</a>
