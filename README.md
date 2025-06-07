@@ -46,13 +46,19 @@
   - Duration: 2021 - 2025  
   - Major: Computer Science  
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/tuhui.png" />
+<img align="right" width="88" src="https://github.com/caiyf03/caiyf03/raw/main/pic/wisconsin.png" />
 
 - **Institution**: University of Wisconsin-Madison  
   - Program: Exchange Student (Computer Science)  
   - Duration: Fall Semester 2024  
   - Key Focus: Introduction to Cryptography, Intro to Software Security, Building User Interfaces
 
+<img align="right" width="88" src="https://github.com/caiyf03/caiyf03/raw/main/pic/penn.png" />
+
+- **Institution**: University of Pennsylvania
+  - Program: Postgraduate (System Engineering)  
+  - Duration: 2025 - 
+  - Key Focus: -
 </td></tr>
 
 <tr><td>
