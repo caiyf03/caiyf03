@@ -39,7 +39,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/yuanze.png" />
+<img align="right" width="88" src="https://github.com/caiyf03/caiyf03/raw/main/pic/shanghaitech.png" />
 
 - **Institution**: ShanghaiTech University  
   - Degree: Bachelor of Science in Computer Science  
