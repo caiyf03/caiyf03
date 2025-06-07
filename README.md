@@ -1,7 +1,7 @@
  
   <!-- 动态打字效果 -->
   <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Cai%20YiFan's%20Homepage!;坐看云卷云舒,静听花开花落&center=true&font=Roboto&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Cai%20YiFan's%20Homepage!;静看潮起潮落，坐观云卷云舒&center=true&font=Roboto&size=27" />
   </div>
 
   <!-- 个人资料徽标 -->
@@ -16,7 +16,7 @@
   ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
   
   <a href="https://wakatime.com/@caiyf03">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg"/>
+    <img src="https://wakatime.com/badge/user/caiyf03.svg"/>
   </a>
 
 
@@ -29,7 +29,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/caiyf03/caiyf03/assets/images/jobs.png" />
+<img align="right" width="88" src="https://github.com/caiyf03/caiyf03/raw/main/pic/shanghaitech.png" />
 
 <p>&emsp;&emsp;。</p>
 
