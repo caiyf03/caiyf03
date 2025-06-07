@@ -15,9 +15,8 @@
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
   
-  <a href="https://wakatime.com/@caiyf03">
-    <img src="https://wakatime.com/badge/user/caiyf03.svg"/>
-  </a>
+  [![WakaTime](https://wakatime.com/badge/user/caiyf03.svg)](https://wakatime.com/@caiyf03)
+
 
 
 
@@ -78,19 +77,21 @@
 </td></tr>
 </table>
 
+### 🧑‍💻 GitHub Stats
+
 <!-- 语言统计 -->
 <table>
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiyf03" /> </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiyf03&layout=compact" />
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=caiyf03&show_icons=true&theme=default&hide_rank=true" />
+      </a>
+    </td>
   </tr>
 </table>
 
-<!-- ![caiyf03's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiyf03&count_private=true&layout=compact)-->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiyf03&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=caiyf03&repo=convoychat" />
-</a>
