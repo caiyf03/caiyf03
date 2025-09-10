@@ -6,16 +6,16 @@
 
   <!-- 个人资料徽标 -->
   <div style="line-height: 2.5;">
-    <img src="https://img.shields.io/badge/Email-邮箱-0078D4"/> <b>邮箱</b>: (caiyf@shanghaitech.edu.cn)<br>
+    <img src="https://img.shields.io/badge/Email-邮箱-0078D4"/> <b>邮箱</b>: (caiyf@shanghaitech.edu.cn , cai03@seas.upenn.edu, caiyf030831@gmail.com)<br>
     <!-- <img src="https://img.shields.io/badge/Twitter-推特-blue"/> <b>Twitter</b>: [@yourhandle](https://twitter.com/yourhandle)<br>-->
     <!-- <img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" alt="B站"/> <b>B站</b>: [你的昵称](https://space.bilibili.com/yourid)<br>-->
-    <!-- <img src="https://img.shields.io/badge/WeChat-微信-07c160" alt="微信"/> <b>微信</b>: 你的微信号<br>-->
+    <img src="https://img.shields.io/badge/WeChat-微信-07c160" alt="微信"/> <b>微信</b>: cyfskpy2003<br>
   </div>
   
 
   ![Visitor Count](https://komarev.com/ghpvc/?username=caiyf03&label=Visitors&color=blue&style=flat)
   
-  [![WakaTime](https://wakatime.com/badge/user/caiyf03.svg)](https://wakatime.com/@caiyf03)
+  <!--[![WakaTime](https://wakatime.com/badge/user/caiyf03.svg)](https://wakatime.com/@caiyf03)-->
 
 
 
@@ -28,9 +28,9 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://github.com/caiyf03/caiyf03/raw/main/pic/shanghaitech.png" />
+<!-- <img align="right" width="88" src="https://github.com/caiyf03/caiyf03/raw/main/pic/shanghaitech.png" /> -->
 
-<p>&emsp;&emsp;。</p>
+<p>&emsp;&emsp;nothing for now ~</p>
 
 </td></tr>
 
