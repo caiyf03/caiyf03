@@ -74,7 +74,7 @@
    - 🏛️ [ICML 2024 Proceedings] (https://icml.cc/virtual/2024/poster/33898)  
    - 🌐 [Code] (https://github.com/LingxiaoYang2023/DSG2024)  
 3. **Cai, Y.** (2025). Structure-Based Drug Design via Diffusion Models Guided by Non-Differentiable Metrics[Undergraduate Thesis].
-   - 🌐 [Code] (https://github.com/caiyf03/Diffusion-model-based-drug-design-guided-by-non-differentiable-metrics.)
+   - 🌐 [Code] ({https://github.com/caiyf03/Diffusion-model-based-drug-design-guided-by-non-differentiable-metrics.} )
 </td></tr>
 </table>
 
