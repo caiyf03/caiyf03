@@ -57,7 +57,7 @@
 - **Institution**: University of Pennsylvania
   - Program: Postgraduate (System Engineering)  
   - Duration: 2025 - 
-  - Key Focus: -
+  - Key Focus: World Model, vedio diffusion 
 </td></tr>
 
 <tr><td>
@@ -73,7 +73,8 @@
    - 📄 [Paper PDF] ([https://example.com/path-to-icml-paper.pdf](https://openreview.net/forum?id=VtqyurB4Af))  
    - 🏛️ [ICML 2024 Proceedings] (https://icml.cc/virtual/2024/poster/33898)  
    - 🌐 [Code] (https://github.com/LingxiaoYang2023/DSG2024)  
-
+3. **Cai, Y.** (2025). Structure-Based Drug Design via Diffusion Models Guided by Non-Differentiable Metrics[Undergraduate Thesis].
+   - 🌐 [Code] ( https://github.com/caiyf03/Diffusion-model-based-drug-design-guided-by-non-differentiable-metrics)
 </td></tr>
 </table>
 
